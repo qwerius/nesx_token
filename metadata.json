@@ -1,0 +1,25 @@
+{
+  "name": "Next Era Sustainable",
+  "symbol": "NESX",
+  "description": "Token NESX mewakili inisiatif Next Era Sustainable — inovasi hijau dan teknologi masa depan di blockchain Solana.",
+  "image": "https://raw.githubusercontent.com/qwerius/nesx_token/main/nesx.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Sustainability" },
+    { "trait_type": "Network", "value": "Solana" },
+    { "trait_type": "Type", "value": "Utility Token" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/qwerius/nesx_token/main/nesx.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4LcQszSUbNq1aaDtJcfC98VBrYtGRvfLUUcJ3MD4r9Mh",
+        "share": 100
+      }
+    ]
+  }
+}
